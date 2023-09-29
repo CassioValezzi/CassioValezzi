@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CassioValezzi
 - 👀 I’m interested in IA and Back-End
 - 🌱 I’m currently learning about Back-End
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me: cassioe.valezzi@gmail.com or my number +5511998222238
 
 <!---
 CassioValezzi/CassioValezzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
