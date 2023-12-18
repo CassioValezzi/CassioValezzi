@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CassioValezzi
-- 👀 I’m interested in IA and Back-End
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning about Back-End
 - 📫 How to reach me: cassioe.valezzi@gmail.com or my number +5511998222238
 
